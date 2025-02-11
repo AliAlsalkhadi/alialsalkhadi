@@ -1,7 +1,7 @@
 Hi 👋 My name is Ali Alsalkhadi
 ===============================
 
-Web Developer & Designer
+Software Engineer
 ------------------------
 
 I am a Software Engineer focused on expanding my expertise in software development, web technologies, and data structures. My GitHub profile showcases my latest projects and contributions. I am open to collaboration and discussions on technical topics.
