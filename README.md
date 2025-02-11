@@ -4,11 +4,12 @@ Hi 👋 My name is Ali Alsalkhadi
 Web Developer & Designer
 ------------------------
 
-I am a second-year computer science student at the University of Windsor with a specialization in software engineering. I am always eager to learn new technologies and improve my skills in programming. I am currently focusing on developing my abilities in the areas of software development, web development, and data structures. You can check out my GitHub profile to see my recent projects and contributions. Feel free to reach out if you want to collaborate on a project or have any questions.
+I am a Software Engineer focused on expanding my expertise in software development, web technologies, and data structures. My GitHub profile showcases my latest projects and contributions. I am open to collaboration and discussions on technical topics.
+
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [alialsalkhadi78@gmail.com](mailto:alialsalkhadi78@gmail.com)
-* 🧠  I'm learning React and NodeJS
+* 🧠  I'm learning Svelte and NodeJS
 
 ### Skills
 
